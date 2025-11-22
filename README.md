@@ -1,5 +1,5 @@
 # SteamCMD Linux 文件仓库
-![Banner](http://114.66.27.10:3000/assets/cs2.jpg)
+![Banner](http://183.129.171.170:3000/assets/csgo.jpg)
 通过 GitHub Actions 自动构建和更新的 SteamCMD Linux 版本，提供稳定的下载源和加速服务。
 原仓库apples1949/SteamCmdLinuxFile
 
